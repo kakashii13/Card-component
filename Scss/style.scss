@@ -130,7 +130,7 @@ body {
     }
 
     .card__hero {
-      background-image: url(./images/image-header-mobile.jpg);
+      background-image: url(/images/image-header-mobile.jpg);
       background-repeat: no-repeat;
       background-position: center;
       background-size: cover;
@@ -140,7 +140,7 @@ body {
       background-color: hsl(276, 80%, 37%);
 
       @media screen and (min-width: 375px) {
-        background-image: url(./images/image-header-desktop.jpg);
+        background-image: url(/images/image-header-desktop.jpg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;

@@ -98,7 +98,7 @@ body {
             font-size: 10px;
             letter-spacing: 1px; }
     body .card__container .card__hero {
-      background-image: url(./images/image-header-mobile.jpg);
+      background-image: url(/images/image-header-mobile.jpg);
       background-repeat: no-repeat;
       background-position: center;
       background-size: cover;
@@ -108,7 +108,7 @@ body {
       background-color: #6d13aa; }
       @media screen and (min-width: 375px) {
         body .card__container .card__hero {
-          background-image: url(./images/image-header-desktop.jpg);
+          background-image: url(/images/image-header-desktop.jpg);
           background-repeat: no-repeat;
           background-position: center;
           background-size: cover;
